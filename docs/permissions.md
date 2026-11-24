@@ -22,7 +22,7 @@ Dependabot PRs are treated as if they are from a forked repo [[2]]:
 > [!NOTE]
 > Workflows triggered by Dependabot pull requests are treated as though they are from a forked repository, and are also subject to these restrictions.
 
-Therefore, I don't think specifying fewer permissions for human PRs, increases the permissions for Dependabot PRs. We might want to investigate permissions further when we introduce renovate.
+Therefore, I don't think that specifying fewer permissions for human PRs increases the permissions for Dependabot PRs. We might want to investigate permissions further when we introduce Renovate.
 
 
 
